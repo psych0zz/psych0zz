@@ -1,5 +1,5 @@
 ### Welcome to my profile!
-### I mainly code in Python 3, but I am learning JavaScript.
+ I mainly code in Python 3, but I am learning JavaScript.
 
 <!--
 **psych0zz/psych0zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
